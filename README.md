@@ -53,5 +53,7 @@ Once SQL is set up, open Power BI Desktop and:
 5. Import views and tables
 
 
+![Dashboard Visual](powerbi/screenshots/ciruthika_nithusyanthan_visual01.png)
+![Dashboard Visual 02](powerbi/screenshots/ciruthika_nithusyanthan_visual02.png)
 
 
