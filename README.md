@@ -30,9 +30,27 @@ A Star Schema was chosen for its simplicity and query efficiency in business int
 3.create your database
 
 **Step 2: Create Schema (Tables)**: Using create table command
+
 **Step 3: Insert Sample Data**: Populate data using bulk insert command from excel
+
 **Step 4: Create Views**: using create view command for further analysis in power bi
 
 **Summary Folder Structure (for reference)**
+
+![SQL Structure Reference](powerbi/screenshots/sql%20structure%20reference.png)
+
+###  Connect Power BI to SQL Server
+Once SQL is set up, open Power BI Desktop and:
+
+1. Click Get Data > SQL Server
+
+2. Server name: .\SQLEXPRESS 
+
+3. Use Windows Authentication
+
+4. Select database
+
+5. Import views and tables
+
 
 
