@@ -14,11 +14,17 @@ A Star Schema was chosen for its simplicity and query efficiency in business int
 
 ### Purpose of Dimentional Table
 **dim_product**: Holds product-specific info like name, category, sub-category
+
 **dim_category**: Holds category information. Category id is connected to dim_product table because some products are assiged to multiple category. It's practical in retail environment.
+
 **dim_date**: Enables time-based analysis (month, quarter, year).
+
 **dim_location**:	Location info: city, postal code, region, country.
+
 **dim_order_mode**:	Online vs In-Store order mode, helps analyze channel-based performance.
+
 **dim_customer**:	Holds customer details 
+
 **dim_segment**: Holds segment information. segment_id is connected to dim_product table
 
 ### SQL Setup Instructions(MSSQL + SSMS)
