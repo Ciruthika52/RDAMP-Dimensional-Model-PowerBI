@@ -54,6 +54,6 @@ Once SQL is set up, open Power BI Desktop and:
 
 
 ![Dashboard Visual](powerbi/screenshots/ciruthika_nithusyanthan_visual01.png)
-![Dashboard Visual 02](powerbi/screenshots/ciruthika_nithusyanthan_visual02.png)
+![Dashboard Visual 02](powerbi/screenshots/Ciruthika_Nithusyanthan_visual02.png)
 
 
